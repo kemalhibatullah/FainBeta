@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "634236643613",
+    "firebase_url": "https://fain-beta.firebaseio.com",
+    "project_id": "fain-beta",
+    "storage_bucket": "fain-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634236643613:android:2c037f6d010acdda",
+        "android_client_info": {
+          "package_name": "com.example.android.fainbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634236643613-sl9t58btuafbh0e1fp1ki6e5mbvpmr78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.fainbeta",
+            "certificate_hash": "37512ec9f85b611ba88254636d83a4b72562d841"
+          }
+        },
+        {
+          "client_id": "634236643613-ncubsee10hple6utiq7v10t5jvk392ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWyukXShcNEpDHhXjS7U6wb2tzgY4WC2Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634236643613-ncubsee10hple6utiq7v10t5jvk392ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
